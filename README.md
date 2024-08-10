@@ -35,7 +35,7 @@ I am always open to discussing new opportunities and collaborations. If you are 
 
 **Projects Overview:**
 
-The portfolio includes five distinct projects covering different areas:
+The portfolio includes six(6) distinct projects covering different areas:
 
 1. User engagement prediction (social media analytics)
 2. Customer churn prediction (e-commerce)
