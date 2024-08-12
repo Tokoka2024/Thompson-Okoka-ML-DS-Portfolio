@@ -100,12 +100,11 @@ This project involved predicting user engagement on TikTok by analyzing various 
 2. Influencer Support: Identify and support top influencers based on model predictions to maintain high engagement levels.
 3. Ad Targeting: Enhance ad targeting strategies by predicting user preferences and behavior, leading to higher revenue.
    
-Link to Project: https://github.com/Tokoka2024/CSCN8030---Spring-2024---Section-2.
+# Link To Project Full Details:
 
-![image](https://github.com/user-attachments/assets/29b2de4c-d036-45dd-9b62-f56c274866e2)
+https://github.com/Tokoka2024/CSCN8030---Spring-2024---Section-2/blob/Main/TikTok_User-Engagement-Prediction.ipynb
 
-
-
+# ![image](https://github.com/user-attachments/assets/e8ad5432-df99-452b-a392-99da5f439363)
 # Project 2: Customer Churn Prediction for Loblaw Digital
 ![image](https://github.com/user-attachments/assets/e986becb-610a-4e3a-ae67-81dc449f065f)
 
@@ -148,7 +147,9 @@ Link to Project: https://github.com/Tokoka2024/CSCN8030---Spring-2024---Section-
     * **Tiered Loyalty Program:** Implement a tiered program based on churn risk and customer lifetime value (CLV).
     * **Personalized Product Recommendations:** Use collaborative filtering to recommend products based on user preferences and past behavior.
 
-Link to Project: https://github.com/Tokoka2024/CSCN8030---Spring-2024---Section-2
+# Link To Project Full Details:
+
+https://github.com/Tokoka2024/CSCN8030---Spring-2024---Section-2/blob/Main/Predict-Attrit-Loblaws.ipynb
 
 # ![image](https://github.com/user-attachments/assets/e8ad5432-df99-452b-a392-99da5f439363)
 
@@ -181,7 +182,10 @@ Link to Project: https://github.com/Tokoka2024/CSCN8030---Spring-2024---Section-
  * **Security Enhancement:** The models successfully identified anomalies, helping to prevent potential security breaches.
  * **Use Cases:** The techniques were particularly effective in fraud detection, network security, and quality control.
 
-Link to Project: https://github.com/Tokoka2024/CSCN8030---Spring-2024---Section-2
+# Link To Project Full Details:
+
+https://github.com/Tokoka2024/CSCN8030---Spring-2024---Section-2/blob/Main/Cyber-Attack-Prediction_Maven-Clinic.ipynb
+
 
 # ![image](https://github.com/user-attachments/assets/e8ad5432-df99-452b-a392-99da5f439363)
 # Project 4: Plant Disease Detection for Small Businesses<img width="469" alt="image" src="https://github.com/user-attachments/assets/7df88191-d66d-4fd5-bc63-aa8497f3d1c0">
@@ -212,7 +216,9 @@ Link to Project: https://github.com/Tokoka2024/CSCN8030---Spring-2024---Section-
    * **Best Model:** The Custom CNN model outperformed the VGG16 model with a testing accuracy of 86% and a loss of 0.3286.
    * **Impact:** The solution provides small-scale farmers with a reliable tool for early disease detection, potentially saving crops and improving food security.
 
-Link to Project: https://github.com/Tokoka2024/CSCN8030---Spring-2024---Section-2 
+# Link To Project Full Details:
+
+https://github.com/Tokoka2024/CSCN8030---Spring-2024---Section-2/blob/Main/Plant-Disease-Detection-Using-ML.ipynb 
 
 # ![image](https://github.com/user-attachments/assets/e8ad5432-df99-452b-a392-99da5f439363)
 
@@ -243,5 +249,74 @@ Link to Project: https://github.com/Tokoka2024/CSCN8030---Spring-2024---Section-
    * **Best Model:** Gradient Boosting exhibited the most balanced performance with an accuracy of 92%.
    * **Findings:** Gradient Boosting was most effective at handling class imbalance, making it the best model for predicting no-shows. Suggestions for further improvement                     include exploring resampling techniques.
 
-Link to Project: https://github.com/Tokoka2024/CSCN8030---Spring-2024---Section-2
+# Link To Project Full Details:
+
+https://github.com/Tokoka2024/CSCN8030---Spring-2024---Section-2/blob/Main/TTS_No-Show_Prediction_Using_ML.ipynb
+
+
+
+# ![image](https://github.com/user-attachments/assets/e8ad5432-df99-452b-a392-99da5f439363)
+
+# Project 6: A Data Science Approach to Operational Efficiency & No-show Prediction For `Goodlife Fitness`
+![image](https://github.com/user-attachments/assets/ce6fde7e-d507-40eb-9ff8-b31f501c5676)
+
+**Description:**
+This project focused on developing machine learning solutions to enhance operational efficiency and improve user satisfaction at GoodLife Fitness. The solutions aimed to optimize resource allocation by predicting the number of people at the facility and to manage bookings more effectively by predicting no-shows.
+
+**Dataset:**
+
+  **Problem 1 (Number of People Prediction):**
+  
+  1. **Key Features:** Day of the week, time of day, temperature, is_weekend, is_holiday, is_during_semester, among others.
+        2. **Size:** Contains several thousand records of facility usage data, including timestamps and associated environmental and temporal factors.
+    ![image](https://github.com/user-attachments/assets/4a53d6ad-59eb-43b3-8dff-c8fd6d9c7ff6)
+![image](https://github.com/user-attachments/assets/b75a32b3-f746-46e1-a35d-a16b83fa6d77)
+
+
+   **Problem 2 (No-Show Prediction):**
+        1. **Key Features:** Booking ID, months as a member, weight, days before booking, day of the week, time of day, category of workout, and whether the booking was attended or not.
+        2. **Size:** A dataset of booking records with information on member attributes and booking attendance.
+
+![image](https://github.com/user-attachments/assets/31d2b1b3-72bc-494f-b1d3-1ae748035185)
+
+**Methodology:**
+
+  **Models Used:**
+  
+  **Random Forest Regressor:** Used to predict the number of people at the facility.
+  **Random Forest Classifier:** Used to predict the likelihood of no-shows for scheduled bookings.
+  
+  <img width="315" alt="image" src="https://github.com/user-attachments/assets/98ce58cc-d6a4-41b2-85b7-488e87829d30">
+ 
+   **Evaluation Metrics:**
+        
+  **For Number of People Prediction:**
+  
+    1. Mean Squared Error (MSE)
+    2. R-squared (R²)
+
+  **For No-Show Prediction:**
+  
+    1. Precision
+    2. Recall
+    3. F1-Score
+    4. ROC AUC Score
+
+<img width="422" alt="image" src="https://github.com/user-attachments/assets/d1341c5a-5e37-4c60-a0af-47bbbcbec2c5">
+
+**Outcome:**
+
+  **Best Model:**
+  
+  **Number of People Prediction:** 
+The Random Forest Regressor performed well with an R-squared value of 0.9441 and an MSE of 28.80, indicating a strong ability to predict the number of people at the facility.
+
+**No-Show Prediction:** 
+The Random Forest Classifier achieved an accuracy of 74%, with a precision of 0.75 and recall of 0.90 for predicting no-shows. The model had an ROC AUC Score of 0.792, indicating a reasonable ability to distinguish between no-shows and attended bookings.
+    
+**Impact:**
+      
+The number of people prediction model allows GoodLife Fitness to allocate resources efficiently, ensuring that the facility is neither over- nor under-prepared for the expected number of attendees.
+        
+The no-show prediction model enables the gym to manage bookings more effectively, reducing the impact of missed bookings on operations and potentially filling those slots with other customers or adjusting staff availability accordingly. These models contribute to improved operational efficiency and enhanced customer satisfaction, driving better business outcomes for GoodLife Fitness
 
