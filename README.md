@@ -320,3 +320,6 @@ The number of people prediction model allows GoodLife Fitness to allocate resour
         
 The no-show prediction model enables the gym to manage bookings more effectively, reducing the impact of missed bookings on operations and potentially filling those slots with other customers or adjusting staff availability accordingly. These models contribute to improved operational efficiency and enhanced customer satisfaction, driving better business outcomes for GoodLife Fitness
 
+# Link To Project Full Details:
+
+https://github.com/Tokoka2024/CSCN8030---Spring-2024---Section-2/blob/Main/Predicting_Operational_Efficiency.ipynb
