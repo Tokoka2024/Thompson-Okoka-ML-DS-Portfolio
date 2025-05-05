@@ -1,9 +1,9 @@
-# Thompson-Okoka-ML-DS-Portfolio
+# Thompson-Okoka-AI-ML/DS & Cybersecurity Portfolio
 ![ML_Pix](https://github.com/user-attachments/assets/d5acfff3-2621-4d01-8ced-a002542218e4)
 
-This repository is to act like a high level overview of the data science college projects I've worked on with my team: Tavleen and Sachin.
+This repository serves as a comprehensive overview of data science and cybersecurity projects I've developed both independently and collaboratively during my academic and professional journey.
 
-Personal Statement: Thompson Okoka is a passionate Machine Learning and Data Science professional with a strong foundation in applied machine learning, data analytics, and business problem-solving. My portfolio showcases a diverse range of machine learning and data science projects that demonstrate my ability to apply advanced analytics techniques to real-world problems across different domains, from social media analytics to customer churn prediction and cybersecurity.
+Personal Statement: Thompson Okoka is a forward-thinking Machine Learning, Data Science, and Cybersecurity professional with expertise in applied machine learning, data analytics, threat detection, and business problem-solving. My portfolio showcases a diverse range of projects that demonstrate my ability to apply advanced analytics techniques to real-world problems across various domains—from social media analytics and customer behavior prediction to advanced cybersecurity threat detection and incident response planning. With specialized experience in developing insider threat detection systems and security incident response playbooks, I bridge the gap between data science and practical security operations to create robust, proactive defense mechanisms for modern organizations.
 
 **Contact Information:**
 
@@ -18,33 +18,71 @@ Personal Statement: Thompson Okoka is a passionate Machine Learning and Data Sci
 
 **Skills:**
 
-* Programming Languages: Python, SQL
-* Machine Learning Frameworks: scikit-learn, TensorFlow, Keras
-* Data Visualization: Matplotlib, Seaborn, Plotly
-* Tools: Jupyter Notebook, Git, Docker, Pandas, NumPy
-* Database Management: MySQL, PostgreSQL
-* Deployment: Flask, Heroku
+Data Science & Machine Learning
+*   Programming Languages: Python, SQL, R
+*	Machine Learning Frameworks: scikit-learn, TensorFlow, Keras, PyTorch
+*	Data Visualization: Matplotlib, Seaborn, Plotly, Tableau
+*	Tools: Jupyter Notebook, Git, Docker, Pandas, NumPy
+*	Database Management: MySQL, PostgreSQL, MongoDB
+*	Deployment: Flask, Heroku, AWS
+
+Cybersecurity
+*	Threat Detection & Response: Behavioral Analytics, Anomaly Detection, SIEM, Insider Threat Management
+*	Security Tools: Splunk, ELK Stack, Snort, IBM QRadar, Carbon Black
+*	Risk Assessment: Vulnerability Management, Threat Modeling, Attack Surface Analysis
+*	Compliance Frameworks: NIST, ISO 27001, CMMC, HIPAA
+*	Network Security: Firewall Configuration, Intrusion Detection Systems
+*	Security Operations: Incident Response Planning, Playbook Development, Tabletop Exercises
+*	Security Automation: SOAR Platforms, Custom Security Orchestration, Security Scripting
+
 
 **Career Goals:**
 
-I am looking forward to leveraging my expertise in machine learning and data science to solve complex business problems and drive meaningful insights. My aim is to work in a challenging environment where I can contribute to innovative projects and grow as a professional in this ever-evolving field.
+I am committed to leveraging my cross-domain expertise in machine learning, data science, and cybersecurity to solve complex business problems and develop robust security solutions. My aim is to work in a challenging environment where I can contribute to innovative projects at the intersection of AI and security, while continuously growing as a professional in these rapidly evolving fields.
 
 **Call to Action:**
 
-I am always open to discussing new opportunities and collaborations. If you are looking for a data-driven professional with a proven track record in applying machine learning to real-world challenges, feel free to reach out to me.
+I am actively seeking opportunities for collaboration and professional growth. If you're looking for a data-driven professional with expertise in both machine learning applications and cybersecurity solutions, please reach out to discuss how we might work together.
 
 **Projects Overview:**
 
-The portfolio includes six(6) distinct projects covering different areas:
+The portfolio includes seven (7) distinct projects spanning multiple domains:
 
-1. User engagement prediction (social media analytics)
-2. Customer churn prediction (e-commerce)
-3. Cybersecurity anomaly detection (healthcare)
-4. Plant disease detection (agriculture)
-5. Appointment no-show prediction for Hairsalon (service industry)
-6. Customer engagement prediction (Lifestyle/Commerce)
+Machine Learning & Data Science
+1.	User Engagement Prediction (Social Media Analytics)
+2.	Customer Churn Prediction (E-commerce)
+3.	Appointment No-show Prediction (Service Industry - Hair Salon)
+4.	Plant Disease Detection (Agriculture)
+5.	Customer Engagement Prediction (Lifestyle/Commerce)
 
-This variety demonstrates versatility and the ability to apply ML techniques to different sectors.
+Cybersecurity
+
+6.	Healthcare Cybersecurity Anomaly Detection 
+*	Implemented machine learning algorithms to identify unusual patterns in healthcare system access
+*	Reduced false positives by 37% compared to rule-based detection systems
+*	Decreased detection time by 45% for potential data breach events
+
+7.	Comprehensive Insider Threat Management Program 
+*	Threat Detection System 
+1. Developed a behavioral analytics framework to identify potential insider threats
+2. Utilized user and entity behavior analytics (UEBA) to establish baselines of normal behavior
+4. Implemented machine learning models for anomaly detection in user activities
+5. Created a risk-scoring system to prioritize alerts based on potential impact and confidence levels
+*  Insider Threat Response Playbook 
+1.	Designed comprehensive incident response procedures for various insider threat scenarios
+2.	Created decision trees for security teams to follow during potential insider threat incidents
+3.	Developed containment strategies to minimize damage from confirmed insider threats
+4.	Established evidence collection protocols that maintain chain of custody for potential legal action
+5.	Integrated with organizational HR policies and legal requirements
+*	Tabletop Exercise Program 
+1.	Designed and facilitated realistic insider threat tabletop exercises for security teams
+2.	Created scenario-based training modules simulating different insider threat vectors
+3.	Developed assessment metrics to evaluate team performance during exercises
+4.	Produced after-action reports with actionable improvement recommendations
+5.	Implemented continuous improvement cycle based on exercise outcomes
+
+
+This variety demonstrates versatility and the ability to apply ML & Cybersecurity techniques to different sectors.
 ![image](https://github.com/user-attachments/assets/96c8d5d4-2695-4718-b633-b21b6432e4bf)
 
 # Project 1: User Engagement Prediction for TikTok
@@ -323,3 +361,19 @@ The no-show prediction model enables the gym to manage bookings more effectively
 # Link To Project Full Details:
 
 https://github.com/Tokoka2024/CSCN8030---Spring-2024---Section-2/blob/Main/Predicting_Operational_Efficiency.ipynb
+
+# ![image](https://github.com/user-attachments/assets/e8ad5432-df99-452b-a392-99da5f439363)
+# Project 7: A Cybersecurity Approach to Rogue Insider For `Corporate Organization`
+<img width="557" alt="image" src="https://github.com/user-attachments/assets/abe36d6f-9689-455f-8a2f-c4984c965a37" />
+
+**Abstract**
+
+This project simulates a realistic insider threat scenario within a corporate network environment using ethical hacking tools. The goal is to demonstrate how a rogue employee can exfiltrate sensitive information and how the organization can detect and analyze this malicious behavior using network monitoring tools. The exercise follows the standard penetration testing methodology: reconnaissance, scanning, exploitation, and maintaining access. Tools like Netcat, Wireshark, Nmap, Metasploit, and Meterpreter were used within a controlled lab setup comprising three virtual machines. The findings and procedures herein contribute to understanding internal security breaches and the necessary monitoring and response mechanisms.
+
+<img width="605" alt="image" src="https://github.com/user-attachments/assets/54bba371-371e-4805-87ad-51c660938533" />
+
+# Link To Project Full Details:
+https://github.com/Tokoka2024/CSCN8030---Spring-2024---Section-2/blob/Main/Insider%20Threat%20Cybersecurity%20Project.pdf
+
+# Link To Playbook Full Details:
+https://github.com/Tokoka2024/CSCN8030---Spring-2024---Section-2/blob/Main/Incident%20Playbook.xlsx
