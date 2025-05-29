@@ -83,7 +83,6 @@ Cybersecurity
 
 
 This variety demonstrates versatility and the ability to apply ML & Cybersecurity techniques to different sectors.
-![image](https://github.com/user-attachments/assets/96c8d5d4-2695-4718-b633-b21b6432e4bf)
 
 # ![image](https://github.com/user-attachments/assets/e8ad5432-df99-452b-a392-99da5f439363)
 # Project 7: A Cybersecurity Approach to Rogue Insider For `Corporate Organization`
@@ -101,6 +100,7 @@ https://github.com/Tokoka2024/CSCN8030---Spring-2024---Section-2/blob/Main/Insid
 # Link To Playbook Full Details:
 https://github.com/Tokoka2024/CSCN8030---Spring-2024---Section-2/blob/Main/Incident%20Playbook.xlsx
 
+![image](https://github.com/user-attachments/assets/96c8d5d4-2695-4718-b633-b21b6432e4bf)
 # Project 1: User Engagement Prediction for TikTok
 
 **Description:**
