@@ -378,18 +378,4 @@ The no-show prediction model enables the gym to manage bookings more effectively
 
 https://github.com/Tokoka2024/CSCN8030---Spring-2024---Section-2/blob/Main/Predicting_Operational_Efficiency.ipynb
 
-# ![image](https://github.com/user-attachments/assets/e8ad5432-df99-452b-a392-99da5f439363)
-# Project 7: A Cybersecurity Approach to Rogue Insider For `Corporate Organization`
-<img width="557" alt="image" src="https://github.com/user-attachments/assets/abe36d6f-9689-455f-8a2f-c4984c965a37" />
 
-**Abstract**
-
-This project simulates a realistic insider threat scenario within a corporate network environment using ethical hacking tools. The goal is to demonstrate how a rogue employee can exfiltrate sensitive information and how the organization can detect and analyze this malicious behavior using network monitoring tools. The exercise follows the standard penetration testing methodology: reconnaissance, scanning, exploitation, and maintaining access. Tools like Netcat, Wireshark, Nmap, Metasploit, and Meterpreter were used within a controlled lab setup comprising three virtual machines. The findings and procedures herein contribute to understanding internal security breaches and the necessary monitoring and response mechanisms.
-
-<img width="605" alt="image" src="https://github.com/user-attachments/assets/54bba371-371e-4805-87ad-51c660938533" />
-
-# Link To Project Full Details:
-https://github.com/Tokoka2024/CSCN8030---Spring-2024---Section-2/blob/Main/Insider%20Threat%20Cybersecurity%20Project.pdf
-
-# Link To Playbook Full Details:
-https://github.com/Tokoka2024/CSCN8030---Spring-2024---Section-2/blob/Main/Incident%20Playbook.xlsx
