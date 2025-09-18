@@ -419,8 +419,15 @@ Architecture: 24→24→2 fully connected layers
 Hyperparameters: lr=0.00198, γ=0.9364, ε_decay=0.995
 
 
-Double Deep Q-Network (DDQN)
+**Double Deep Q-Network (DDQN)**
 
 Addresses overestimation bias in DQN
 Dual network architecture for action selection and evaluation
 Hyperparameters: lr=0.00979, γ=0.9406, ε_decay=0.992
+
+**_**Key Features**_**
+
+Hyperparameter Optimization: Grid search and Optuna-based tuning
+Performance Metrics: Cumulative rewards, running averages, convergence analysis
+Visualization: Learning curves, performance comparisons, trained agent demonstrations
+Model Persistence: Trained models saved and reusable
