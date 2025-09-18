@@ -433,11 +433,11 @@ Grid search and Optuna-based tuning
 
 Cumulative rewards, running averages, convergence analysis
 
-**Visualization:** 
+**_Visualization:_** 
 
 Learning curves, performance comparisons, trained agent demonstrations
 
-**Model Persistence:** 
+**_Model Persistence:_** 
 
 Trained models saved and reusable
 
