@@ -474,3 +474,5 @@ Trained models saved and reusable
 
 <img width="661" height="454" alt="image" src="https://github.com/user-attachments/assets/61944236-d9da-4704-bed2-f6fa26bb56bf" />
 
+# Link To Project Full Details:
+https://github.com/Tokoka2024/CSCN8030---Spring-2024---Section-2
