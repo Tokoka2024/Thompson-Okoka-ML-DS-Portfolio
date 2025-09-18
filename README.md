@@ -423,7 +423,7 @@ Addresses overestimation bias in DQN
 Dual network architecture for action selection and evaluation
 Hyperparameters: lr=0.00979, γ=0.9406, ε_decay=0.992
 
-__**Key Features**__
+_**Key Features**_
 
 **Hyperparameter Optimization:** 
 
@@ -441,7 +441,7 @@ Learning curves, performance comparisons, trained agent demonstrations
 
 Trained models saved and reusable
 
-***Results & Performance:***
+**Results & Performance:**
 
 <img width="387" height="141" alt="image" src="https://github.com/user-attachments/assets/310a5e45-0a9e-480e-83d5-4111ae949491" />
 
