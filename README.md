@@ -441,7 +441,7 @@ Learning curves, performance comparisons, trained agent demonstrations
 
 Trained models saved and reusable
 
-_**Results & Performance:**_
+***Results & Performance:***
 
 <img width="387" height="141" alt="image" src="https://github.com/user-attachments/assets/310a5e45-0a9e-480e-83d5-4111ae949491" />
 
