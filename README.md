@@ -425,9 +425,21 @@ Addresses overestimation bias in DQN
 Dual network architecture for action selection and evaluation
 Hyperparameters: lr=0.00979, γ=0.9406, ε_decay=0.992
 
-**_**Key Features**_**
+__**Key Features**__
 
-Hyperparameter Optimization: Grid search and Optuna-based tuning
-Performance Metrics: Cumulative rewards, running averages, convergence analysis
-Visualization: Learning curves, performance comparisons, trained agent demonstrations
+**Hyperparameter Optimization:** 
+
+Grid search and Optuna-based tuning
+
+**Performance Metrics:** 
+
+Cumulative rewards, running averages, convergence analysis
+
+**Visualization:** 
+
+Learning curves, performance comparisons, trained agent demonstrations
 Model Persistence: Trained models saved and reusable
+
+_**Results & Performance:**_
+
+AlgorithmCumulative Reward (100 episodes)Running AveragePost-Tuning Average (50 episodes)Q-Learning2,55220.627.1DQN12,515122.4230.1DDQN1,0169.5101.6
