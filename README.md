@@ -447,6 +447,21 @@ Trained models saved and reusable
 <img width="387" height="141" alt="image" src="https://github.com/user-attachments/assets/310a5e45-0a9e-480e-83d5-4111ae949491" />
 
 # Key Findings:
-DQN emerged as the top performer, demonstrating superior handling of continuous state spaces
-Q-Learning showed moderate performance limited by discretization constraints
-DDQN, while theoretically superior, didn't outperform DQN in this specific problem context
+**_DQN_** emerged as the top performer, demonstrating superior handling of continuous state spaces
+
+**_Q-Learning_** showed moderate performance limited by discretization constraints
+
+**_DDQN_**, while theoretically superior, didn't outperform DQN in this specific problem context
+
+ # Technologies Used
+**_Python Libraries:_** OpenAI Gym, TensorFlow/Keras, NumPy, Matplotlib
+
+**_ML Frameworks_:** Scikit-learn (hyperparameter tuning), Optuna (optimization)
+
+**_Development_:** Jupyter Notebooks, Git version control
+
+#Visualizations
+1. Learning curve analysis across all algorithms
+2. Reward progression and convergence patterns
+3. Hyperparameter sensitivity analysis
+4. Real-time agent performance demonstrations
