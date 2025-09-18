@@ -398,18 +398,16 @@ Cart Velocity: [-∞, ∞]
 Pole Angle: [-24°, 24°]
 Pole Angular Velocity: [-∞, ∞]
 
-Action Space: Discrete (2 actions - left/right force)
+**Action Space:** Discrete (2 actions - left/right force)
 
-**Technical Implementation:**
-
+_**Technical Implementation**_
 **Algorithms Implemented:**
 
-_**Q-Learning (Tabular)**_
+**Q-Learning (Tabular)**
 
 State space discretization into 10×10×10×10 grid
 Classical value-based RL with Q-table updates
 Hyperparameters: α=0.3, γ=0.99, ε=1.0, ε_decay=0.995
-
 
 _**Deep Q-Network (DQN)**_
 
