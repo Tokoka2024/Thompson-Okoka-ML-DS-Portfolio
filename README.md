@@ -438,8 +438,12 @@ Cumulative rewards, running averages, convergence analysis
 **Visualization:** 
 
 Learning curves, performance comparisons, trained agent demonstrations
-Model Persistence: Trained models saved and reusable
+
+**Model Persistence:** 
+
+Trained models saved and reusable
 
 _**Results & Performance:**_
 
-AlgorithmCumulative Reward (100 episodes)Running AveragePost-Tuning Average (50 episodes)Q-Learning2,55220.627.1DQN12,515122.4230.1DDQN1,0169.5101.6
+<img width="387" height="141" alt="image" src="https://github.com/user-attachments/assets/310a5e45-0a9e-480e-83d5-4111ae949491" />
+
