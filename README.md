@@ -401,7 +401,7 @@ Pole Angular Velocity: [-∞, ∞]
 **_Action Space:_** Discrete (2 actions - left/right force)
 
 
-**Technical Implementation**
+# Technical Implementation
 
 **Algorithms Implemented:**
 
@@ -425,7 +425,7 @@ Addresses overestimation bias in DQN
 Dual network architecture for action selection and evaluation
 Hyperparameters: lr=0.00979, γ=0.9406, ε_decay=0.992
 
-**Key Features**
+# Key Features
 
 **_Hyperparameter Optimization:_** 
 
@@ -443,7 +443,10 @@ Learning curves, performance comparisons, trained agent demonstrations
 
 Trained models saved and reusable
 
-**Results & Performance:**
-
+# Results & Performance:
 <img width="387" height="141" alt="image" src="https://github.com/user-attachments/assets/310a5e45-0a9e-480e-83d5-4111ae949491" />
 
+# Key Findings:
+DQN emerged as the top performer, demonstrating superior handling of continuous state spaces
+Q-Learning showed moderate performance limited by discretization constraints
+DDQN, while theoretically superior, didn't outperform DQN in this specific problem context
