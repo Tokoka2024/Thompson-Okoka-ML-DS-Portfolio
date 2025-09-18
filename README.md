@@ -383,8 +383,7 @@ https://github.com/Tokoka2024/CSCN8030---Spring-2024---Section-2/blob/Main/Predi
 
 # Project 7: CartPole Balancing with Reinforcement Learning
 ![image](https://github.com/user-attachments/assets/ce6fde7e-d507-40eb-9ff8-b31f501c5676)
-![image](<img width="323" height="156" alt="Cartpole" src="https://github.com/user-attachments/assets/fe7096fd-94cd-4068-a112-1bc924fa4e60" />
-)
+![image](https://github.com/user-attachments/assets/fe7096fd-94cd-4068-a112-1bc924fa4e60)
 
 **Project Overview:**
 A comprehensive comparative analysis of three reinforcement learning algorithms—Q-Learning, Deep Q-Network (DQN), and Double Deep Q-Network (DDQN)—applied to solve the classic CartPole balancing problem using OpenAI Gym.
