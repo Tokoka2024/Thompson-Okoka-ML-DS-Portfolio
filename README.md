@@ -379,3 +379,15 @@ The no-show prediction model enables the gym to manage bookings more effectively
 https://github.com/Tokoka2024/CSCN8030---Spring-2024---Section-2/blob/Main/Predicting_Operational_Efficiency.ipynb
 
 
+# ![image](https://github.com/user-attachments/assets/e8ad5432-df99-452b-a392-99da5f439363)
+
+# Project 7: CartPole Balancing with Reinforcement Learning
+![image](https://github.com/user-attachments/assets/ce6fde7e-d507-40eb-9ff8-b31f501c5676)
+![image](<img width="323" height="156" alt="Cartpole" src="https://github.com/user-attachments/assets/fe7096fd-94cd-4068-a112-1bc924fa4e60" />
+)
+
+**Project Overview:**
+A comprehensive comparative analysis of three reinforcement learning algorithms—Q-Learning, Deep Q-Network (DQN), and Double Deep Q-Network (DDQN)—applied to solve the classic CartPole balancing problem using OpenAI Gym.
+
+**Description:**
+This project focused on developing machine learning solutions to enhance operational efficiency and improve user satisfaction at GoodLife Fitness. The solutions aimed to optimize resource allocation by predicting the number of people at the facility and to manage bookings more effectively by predicting no-shows.
