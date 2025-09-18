@@ -384,11 +384,11 @@ https://github.com/Tokoka2024/CSCN8030---Spring-2024---Section-2/blob/Main/Predi
 # Project 7: CartPole Balancing with Reinforcement Learning
 ![image](https://github.com/user-attachments/assets/fe7096fd-94cd-4068-a112-1bc924fa4e60)
 
-_**Project Overview:**_
+__**Project Overview:**__
 
 A comprehensive comparative analysis of three reinforcement learning algorithms—Q-Learning, Deep Q-Network (DQN), and Double Deep Q-Network (DDQN)—applied to solve the classic CartPole balancing problem using OpenAI Gym.
 
-_**Problem Statement:**_
+__**Problem Statement:**__
 
 The CartPole environment challenges an agent to balance a pole on a cart by applying left or right forces. The goal is to keep the pole upright for as long as possible, with the episode ending when the pole falls beyond ±24° or the cart moves beyond ±2.4 units.
 State Space: 4-dimensional continuous space
