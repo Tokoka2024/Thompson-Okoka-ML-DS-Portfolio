@@ -460,8 +460,10 @@ Trained models saved and reusable
 
 **_Development_:** Jupyter Notebooks, Git version control
 
-#Visualizations
+# Visualizations
 1. Learning curve analysis across all algorithms
 2. Reward progression and convergence patterns
 3. Hyperparameter sensitivity analysis
 4. Real-time agent performance demonstrations
+
+<img width="640" height="480" alt="q_learning_curve" src="https://github.com/user-attachments/assets/ae172b40-fed9-4588-a2bb-20c161ecafb4" />
