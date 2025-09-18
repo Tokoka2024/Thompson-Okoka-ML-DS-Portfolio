@@ -382,11 +382,42 @@ https://github.com/Tokoka2024/CSCN8030---Spring-2024---Section-2/blob/Main/Predi
 # ![image](https://github.com/user-attachments/assets/e8ad5432-df99-452b-a392-99da5f439363)
 
 # Project 7: CartPole Balancing with Reinforcement Learning
-![image](https://github.com/user-attachments/assets/ce6fde7e-d507-40eb-9ff8-b31f501c5676)
 ![image](https://github.com/user-attachments/assets/fe7096fd-94cd-4068-a112-1bc924fa4e60)
 
 **Project Overview:**
 A comprehensive comparative analysis of three reinforcement learning algorithms—Q-Learning, Deep Q-Network (DQN), and Double Deep Q-Network (DDQN)—applied to solve the classic CartPole balancing problem using OpenAI Gym.
 
-**Description:**
-This project focused on developing machine learning solutions to enhance operational efficiency and improve user satisfaction at GoodLife Fitness. The solutions aimed to optimize resource allocation by predicting the number of people at the facility and to manage bookings more effectively by predicting no-shows.
+**Problem Statement:**
+The CartPole environment challenges an agent to balance a pole on a cart by applying left or right forces. The goal is to keep the pole upright for as long as possible, with the episode ending when the pole falls beyond ±24° or the cart moves beyond ±2.4 units.
+State Space: 4-dimensional continuous space
+
+Cart Position: [-4.8, 4.8]
+Cart Velocity: [-∞, ∞]
+Pole Angle: [-24°, 24°]
+Pole Angular Velocity: [-∞, ∞]
+
+Action Space: Discrete (2 actions - left/right force)
+
+**Technical Implementation:**
+Algorithms Implemented:
+
+Q-Learning (Tabular)
+
+State space discretization into 10×10×10×10 grid
+Classical value-based RL with Q-table updates
+Hyperparameters: α=0.3, γ=0.99, ε=1.0, ε_decay=0.995
+
+
+Deep Q-Network (DQN)
+
+Neural network approximation of Q-values
+Experience replay and target network stabilization
+Architecture: 24→24→2 fully connected layers
+Hyperparameters: lr=0.00198, γ=0.9364, ε_decay=0.995
+
+
+Double Deep Q-Network (DDQN)
+
+Addresses overestimation bias in DQN
+Dual network architecture for action selection and evaluation
+Hyperparameters: lr=0.00979, γ=0.9406, ε_decay=0.992
